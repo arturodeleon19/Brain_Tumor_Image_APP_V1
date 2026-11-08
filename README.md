@@ -1,5 +1,11 @@
 🧠 Brain Tumor MRI Classification
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medicalinsurancecost-dxd8pwbwhvxtrmykb4twz4.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![LightGBM](https://img.shields.io/badge/Model-LightGBM-green.svg)](https://lightgbm.readthedocs.io/)
+[![Framework](https://img.shields.io/badge/App-Streamlit-red.svg)](https://streamlit.io/)
+
+
 📌 Project Overview
 
 This project applies deep learning to medical imaging by classifying brain MRI scans into two categories: Tumor or No Tumor. The end product is a lightweight, interactive web application built with Streamlit, designed to process uploaded MRI scans and output real-time predictions with confidence scores.
