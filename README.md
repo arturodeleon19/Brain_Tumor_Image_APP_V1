@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://braintumorimageappv1-eq3v9mhdlpn642eskvcajk.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![LightGBM](https://img.shields.io/badge/Model-LightGBM-green.svg)](https://lightgbm.readthedocs.io/)
+[![EfficientNetB0](https://img.shields.io/badge/Model-EfficientNetB0-orange.svg)](https://keras.io/api/applications/efficientnet/)
 [![Framework](https://img.shields.io/badge/App-Streamlit-red.svg)](https://streamlit.io/)
 
 
