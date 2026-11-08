@@ -36,6 +36,7 @@ Baseline Metrics: Accuracy: 99.80% | Val_Accuracy: 99.07% | Val_Loss: 0.0402
 
 Limitation: While highly accurate, custom CNNs on small medical datasets can be prone to overfitting and lack the generalized feature-extraction capabilities of established architectures.
 
+
     Transfer Learning: EfficientNetB0
 
 To ensure robust real-world performance while maintaining a tiny file footprint (~20MB) for deployment, the model was upgraded to EfficientNetB0.
@@ -50,7 +51,7 @@ To run this application locally on your machine:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/brain_tumor_project.git cd brain_tumor_project
+git clone https://github.com/arturodeleon19/Brain_Tumor_Image_APP_V1.git cd brain_tumor_project
 
 Install the required dependencies: It is recommended to use a virtual environment (like Anaconda, Python 3.11).
 
